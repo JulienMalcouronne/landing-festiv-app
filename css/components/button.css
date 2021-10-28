@@ -1,0 +1,17 @@
+.button {
+border: 2px solid white;
+border-radius: 20px 20px;
+color: white;
+padding: 10px 10px;
+opacity: 0.8;
+margin-top: 500px;
+margin-left: 150px;
+font-size: large;
+font-weight: bold;
+text-shadow: (black,black);
+padding: 10px 10px;
+}
+
+.button:hover {
+ opacity: 1;
+}
